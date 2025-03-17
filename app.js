@@ -1,8 +1,8 @@
 let amigos = [];
 
 function agregarAmigo(){
-    let input = document.getElementById("amigo");
-    let nombre = input.value.trim();
+    let input = document.querySelector("#amigo");
+    elementoHTML.innerHTML = texto;
     
     if (nombre === ""){
         alert("Por favor, inserte un nombre.");
