@@ -22,7 +22,7 @@ function actualizarLista(){
     }
 }
 
-Funtion sortearAmigo(){
+function sortearAmigo(){
     if (amigos.length === 0){
         alert("No hay nombres en la lista para sortear.");
         return;
