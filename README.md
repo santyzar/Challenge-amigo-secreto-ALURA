@@ -46,7 +46,7 @@ Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 ## Sorteo aleatorio (Botón 'Sortear amigo')
 Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-![alt text](image-4.png)
+![alt text](image-5.png)
 
 
 ## Recursos utilizados
