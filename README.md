@@ -26,31 +26,32 @@ Challenge del curso Principiante en Programación G8 - ONE, Alura. El objetivo p
 ## Agregar nombres
 Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
 
-![Añadir1] (![alt text](image.png))
-![image](![alt text](image-1.png))
+ (![alt text](image.png))
+ (![alt text](image-1.png))
 
 
 ## Validar entrada
 Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
-![image](![alt text](image-2.png))
+(![alt text](image-2.png))
 
 
 ## Visualizar la lista
 Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
-![image](![alt text](image-3.png))
+(![alt text](image-3.png))
 
 
 ## Sorteo aleatorio (Botón 'Sortear amigo')
 Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-![image](![alt text](image-4.png))
+(![alt text](image-4.png))
 
 
 ## Recursos utilizados
 
   * [Curso Principiante en Programación G8 - ONE](https://app.aluracursos.com/formacion-programacion-primeros-pasos-grupo8-one)
   * HTML - CSS - JavaScript
-# 🤵 Desarrollador
-[<img src="https://github.com/user-attachments/assets/b1c94700-33f7-42e0-9d3a-322ab3580dcc" width=115><br><sub>Santiago Zarlenga</sub>](https://github.com/santyzar)
+#  Desarrollador
+Santiago Zarlenga
+(https://github.com/santyzar)
