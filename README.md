@@ -26,25 +26,27 @@ Challenge del curso Principiante en Programación G8 - ONE, Alura. El objetivo p
 ## Agregar nombres
 Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
 
-![alt text](image-6.png)
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 
 ## Validar entrada
 Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
-![image](santyzar/Challenge-amigo-secreto-ALURA/recursos readme/image-2.png)
+![alt text](image-2.png)
 
 
 ## Visualizar la lista
 Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
-![image](santyzar/Challenge-amigo-secreto-ALURA/recursos readme/image-3.png)
+![alt text](image-3.png)
 
 
 ## Sorteo aleatorio (Botón 'Sortear amigo')
 Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-![image](santyzar/Challenge-amigo-secreto-ALURA/recursos readme/image-4.png)
+![alt text](image-4.png)
 
 
 ## Recursos utilizados
