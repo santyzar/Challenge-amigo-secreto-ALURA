@@ -26,7 +26,7 @@ Challenge del curso Principiante en Programación G8 - ONE, Alura. El objetivo p
 ## Agregar nombres
 Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
 
- ![Añadir1](santyzar/Challenge-amigo-secreto-ALURA/recursos readme/image.png)
+ ![Añadir1]([santyzar/Challenge-amigo-secreto-ALURA/recursos readme/image.png](https://github.com/santyzar/Challenge-amigo-secreto-ALURA/blob/6d596c63b55c01ac26e85ececdefb8aa3626b02f/recursos%20readme/image-1.png))
 ![image](santyzar/Challenge-amigo-secreto-ALURA/recursos readme/image-1.png)
 
 
